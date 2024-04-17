@@ -1,0 +1,12 @@
+{
+  "name": "com.unity.zstandard",
+  "version": "1.0.1",
+  "displayName": "Zstandard.Net",
+  "description": "Zstandard.Net",
+  "unity": "2023.3",
+  "author": {
+    "name": "Wakui8",
+    "email": "wakui8@hotmail.com",
+    "url": "https://github.com/Wakui8"
+  }
+}
