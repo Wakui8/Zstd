@@ -1,11 +1,11 @@
 {
   "name": "com.unity.zstandard",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "displayName": "Zstandard",
   "description": "",
   "unity": "2023.3",
   "author": {
-    "name": "Unity Technologies Inc.",
+    "name": "Wakui8",
     "email": "wakui8@hotmail.com",
     "url": "https://github.com/Wakui8"
   }
